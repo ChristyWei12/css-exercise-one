@@ -1,36 +1,44 @@
-body
+/* the style of body*/
+body {
   font-size: 14px;
 }
 
+/* the style of navigation */
 nav {
   background color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
   width: 100%;
+}
 
-
+/* the style of section */
 section {
   margin: 0 auto;
   width: 60%;
 }
 
+/* the style of heading1*/
 h1 {
-  font-family sans-serif;
+  font-family: sans-serif;
   font-size: 2em;
 }
 
+/* I do not understand what .example here means*/
 .example, h3 {
   padding-top: 30px;
-  text-align center
+  text-align: center;
 }
 
+/* the font size of h3*/
 h3 {
   font-size: 1.3em;
 }
 
+/* do not know .element means here either */
 .element {
   background-color: green;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
+}
