@@ -24,7 +24,7 @@ h1 {
   font-size: 2em;
 }
 
-/* I do not understand what .example here means*/
+/* the style of .example and h3*/
 .example, h3 {
   padding-top: 30px;
   text-align: center;
@@ -35,7 +35,7 @@ h3 {
   font-size: 1.3em;
 }
 
-/* do not know .element means here either */
+/* the style of class selector .element */
 .element {
   background-color: green;
   height: 100px;
