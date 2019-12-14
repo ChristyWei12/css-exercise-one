@@ -35,9 +35,30 @@ h3 {
   font-size: 1.3em;
 }
 
-/* the style of class selector .element */
+/* the style of class selector .element, .element2, .element3, .element4*/
 .element {
   background-color: green;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.element2 {
+  background-color: #746923;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.element3 {
+  background-color: yellow;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+}
+
+.element4 {
+  background-color: white;
   height: 100px;
   margin: 10px 0;
   width: 100%;
