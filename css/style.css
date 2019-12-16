@@ -1,11 +1,11 @@
-/* the style of body*/
+/* the style of body */
 body {
   font-size: 14px;
 }
 
 /* the style of navigation */
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -44,22 +44,13 @@ h3 {
 }
 
 .element2 {
-  background-color: #746923;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
+  background-color: pink;
 }
 
 .element3 {
-  background-color: yellow;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
+  background-color: red;
 }
 
 .element4 {
-  background-color: white;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
+  background-color: yellow;
 }
